@@ -1,16 +1,16 @@
 
 # 👋 Olá, eu sou Anderson Costa Santos
 
-💻 Desenvolvedor Full Stack  
-🚀 Apaixonado por JavaScript, React e tecnologia  
+💻 Desenvolvedor Full Stack júnior  
+🚀 Apaixonado por JavaScript, React e desenvolvimento web
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-blue-ten-34.vercel.app/api?username=Anderson-Costa-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5"/>
-  <img height="180em" src="https://github-readme-stats-blue-ten-34.vercel.app/api/top-langs/?username=Anderson-Costa-Santos&layout=compact&langs_count=7&theme=dracula&v=5"/>
+  <img height="160em" src="https://github-readme-stats-blue-ten-34.vercel.app/api?username=Anderson-Costa-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5"/>
+  <img height="160em" src="https://github-readme-stats-blue-ten-34.vercel.app/api/top-langs/?username=Anderson-Costa-Santos&layout=compact&langs_count=7&theme=dracula&v=5"/>
 </div>
 
 ---
@@ -22,11 +22,12 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Onde me encontrar
 
 <div>
   <a href="https://www.youtube.com/channel/UCvv10Wx8yzlY2Bt_5d1m7TQ/featured" target="_blank">
@@ -45,5 +46,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
 
