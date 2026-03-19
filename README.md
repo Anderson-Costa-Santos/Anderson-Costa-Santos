@@ -1,8 +1,7 @@
 
 # 👋 Olá, eu sou Anderson Costa Santos
 
-💻 Desenvolvedor Full Stack júnior  
-🚀 Apaixonado por JavaScript, React e desenvolvimento web
+Front-end Developer focused on modern, responsive and interactive web applications.
 
 ---
 
