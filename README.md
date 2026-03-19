@@ -5,12 +5,7 @@ Front-end Developer focused on modern, responsive and interactive web applicatio
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-blue-ten-34.vercel.app/api?username=Anderson-Costa-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=5"/>
-  <img height="160em" src="https://github-readme-stats-blue-ten-34.vercel.app/api/top-langs/?username=Anderson-Costa-Santos&layout=compact&langs_count=7&theme=dracula&v=5"/>
-</div>
 
 ---
 
