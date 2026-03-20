@@ -14,10 +14,15 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-| ![Death Stranding](./screenshots/1.jpg) | ![Stranger Things](./screenshots/2.jpg) | ![Vídeo Page](./screenshots/3.jpg) |
+| [![Death Stranding](./screenshots/1.jpg)](https://link-do-projeto1-demo.com) | [![Stranger Things](./screenshots/2.jpg)](https://link-do-projeto2-demo.com) | [![Vídeo Page](./screenshots/3.jpg)](https://link-do-projeto3-demo.com) |
 |----------------------------------------|----------------------------------------|--------------------------------|
 | **Death Stranding** | **Stranger Things** | **Vídeo Page** |
 | [💻 GitHub](https://github.com/seuuser/projeto1) [🌐 Demo](https://link-do-projeto1-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto2) [🌐 Demo](https://link-do-projeto2-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto3) [🌐 Demo](https://link-do-projeto3-demo.com) |
+
+| [![Rider App](./screenshots/4.jpg)](https://link-do-projeto4-demo.com) | [![Todo App](./screenshots/5.jpg)](https://link-do-projeto5-demo.com) | [![One Piece GG](./screenshots/6.jpg)](https://link-do-projeto6-demo.com) |
+|----------------------------------------|----------------------------------------|--------------------------------|
+| **Rider App** | **Todo App** | **One Piece GG** |
+| [💻 GitHub](https://github.com/seuuser/projeto4) [🌐 Demo](https://link-do-projeto4-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto5) [🌐 Demo](https://link-do-projeto5-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto6) [🌐 Demo](https://link-do-projeto6-demo.com) |
 
 ---
 
