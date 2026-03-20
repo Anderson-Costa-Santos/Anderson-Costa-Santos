@@ -14,15 +14,10 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-| ![Projeto 1 Preview](./screenshots/1.jpg) | ![Projeto 2 Preview](./screenshots/2.jpg) | ![Projeto 3 Preview](./screenshots/3.jpg) |
-|------------------------------------------|------------------------------------------|------------------------------------------|
-| [**Death Stranding** 🌐 · 💻](https://link-do-projeto1-demo.com) | [**Stranger Things** 🌐 · 💻](https://link-do-projeto2-demo.com) | [**Vídeo Page** 🌐 · 💻](https://link-do-projeto3-demo.com) |
-| Página temática do jogo Death Stranding | Página inspirada na série Stranger Things | Página de vídeos em HTML |
-
-| ![Projeto 4 Preview](./screenshots/4.jpg) | ![Projeto 5 Preview](./screenshots/5.jpg) | ![Projeto 6 Preview](./screenshots/6.jpg) |
-|------------------------------------------|------------------------------------------|------------------------------------------|
-| [**Rider App** 🌐 · 💻](https://link-do-projeto4-demo.com) | [**Todo App** 🌐 · 💻](https://link-do-projeto5-demo.com) | [**One Piece GG** 🌐 · 💻](https://link-do-projeto6-demo.com) |
-| App de gerenciamento de corridas | Lista de tarefas simples com funcionalidades básicas | Página temática de anime em HTML |
+| ![Death Stranding](./screenshots/1.jpg) | ![Stranger Things](./screenshots/2.jpg) | ![Vídeo Page](./screenshots/3.jpg) |
+|----------------------------------------|----------------------------------------|--------------------------------|
+| **Death Stranding** | **Stranger Things** | **Vídeo Page** |
+| [💻 GitHub](https://github.com/seuuser/projeto1) [🌐 Demo](https://link-do-projeto1-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto2) [🌐 Demo](https://link-do-projeto2-demo.com) | [💻 GitHub](https://github.com/seuuser/projeto3) [🌐 Demo](https://link-do-projeto3-demo.com) |
 
 ---
 
