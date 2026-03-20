@@ -14,17 +14,17 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-| Projeto 1 | Projeto 2 | Projeto 3 |
+
 |-----------|-----------|-----------|
 | <a href="https://link-do-projeto1-demo.com"><img src="./screenshots/1.jpg" width="300" alt="Projeto 1 Preview" /></a> | <a href="https://link-do-projeto2-demo.com"><img src="./screenshots/2.jpg" width="300" alt="Projeto 2 Preview" /></a> | <a href="https://link-do-projeto3-demo.com"><img src="./screenshots/3.jpg" width="300" alt="Projeto 3 Preview" /></a> |
-| **Projeto 1** 🌐 · 💻 | **Projeto 2** 🌐 · 💻 | **Projeto 3** 🌐 · 💻 |
-| Breve descrição do projeto 1 | Breve descrição do projeto 2 | Breve descrição do projeto 3 |
+| **Death Stranding** 🌐 · 💻 | **Stranger Things** 🌐 · 💻 | **Vídeo Page** 🌐 · 💻 |
+| Página temática do jogo Death Stranding | Página inspirada na série Stranger Things | Página de vídeos em HTML |
 
-| Projeto 4 | Projeto 5 | Projeto 6 |
+
 |-----------|-----------|-----------|
 | <a href="https://link-do-projeto4-demo.com"><img src="./screenshots/4.jpg" width="300" alt="Projeto 4 Preview" /></a> | <a href="https://link-do-projeto5-demo.com"><img src="./screenshots/5.jpg" width="300" alt="Projeto 5 Preview" /></a> | <a href="https://link-do-projeto6-demo.com"><img src="./screenshots/6.jpg" width="300" alt="Projeto 6 Preview" /></a> |
-| **Projeto 4** 🌐 · 💻 | **Projeto 5** 🌐 · 💻 | **Projeto 6** 🌐 · 💻 |
-| Breve descrição do projeto 4 | Breve descrição do projeto 5 | Breve descrição do projeto 6 |
+| **Rider App** 🌐 · 💻 | **Todo App** 🌐 · 💻 | **One Piece GG** 🌐 · 💻 |
+| App de gerenciamento de corridas | Lista de tarefas simples com funcionalidades básicas | Página temática de anime em HTML |
 
 ---
 
