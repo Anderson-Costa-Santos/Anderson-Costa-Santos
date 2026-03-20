@@ -14,59 +14,17 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-<!-- Projeto 1 -->
-<p align="center">
-  <a href="https://link-do-projeto1-demo.com">
-    <img width="400" alt="Projeto 1 Preview" src="./screenshots/1.jpg" />
-  </a>
-</p>
-**Projeto 1** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto1-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto1)
+| Projeto 1 | Projeto 2 | Projeto 3 |
+|-----------|-----------|-----------|
+| <a href="https://link-do-projeto1-demo.com"><img src="./screenshots/1.jpg" width="300" alt="Projeto 1 Preview" /></a> | <a href="https://link-do-projeto2-demo.com"><img src="./screenshots/2.jpg" width="300" alt="Projeto 2 Preview" /></a> | <a href="https://link-do-projeto3-demo.com"><img src="./screenshots/3.jpg" width="300" alt="Projeto 3 Preview" /></a> |
+| **Projeto 1** 🌐 · 💻 | **Projeto 2** 🌐 · 💻 | **Projeto 3** 🌐 · 💻 |
+| Breve descrição do projeto 1 | Breve descrição do projeto 2 | Breve descrição do projeto 3 |
 
-<!-- Projeto 2 -->
-<p align="center">
-  <a href="https://link-do-projeto2-demo.com">
-    <img width="400" alt="Projeto 2 Preview" src="./screenshots/2.jpg" />
-  </a>
-</p>
-**Projeto 2** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto2-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto2)
-
-<!-- Projeto 3 -->
-<p align="center">
-  <a href="https://link-do-projeto3-demo.com">
-    <img width="400" alt="Projeto 3 Preview" src="./screenshots/3.jpg" />
-  </a>
-</p>
-**Projeto 3** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto3-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto3)
-
-<!-- Projeto 4 -->
-<p align="center">
-  <a href="https://link-do-projeto4-demo.com">
-    <img width="400" alt="Projeto 4 Preview" src="./screenshots/4.jpg" />
-  </a>
-</p>
-**Projeto 4** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto4-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto4)
-
-<!-- Projeto 5 -->
-<p align="center">
-  <a href="https://link-do-projeto5-demo.com">
-    <img width="400" alt="Projeto 5 Preview" src="./screenshots/5.jpg" />
-  </a>
-</p>
-**Projeto 5** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto5-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto5)
-
-<!-- Projeto 6 -->
-<p align="center">
-  <a href="https://link-do-projeto6-demo.com">
-    <img width="400" alt="Projeto 6 Preview" src="./screenshots/6.jpg" />
-  </a>
-</p>
-**Projeto 6** – Breve descrição do projeto  
-🌐 [Live Demo](https://link-do-projeto6-demo.com) · 💻 [Source Code](https://github.com/seuusuario/projeto6)
+| Projeto 4 | Projeto 5 | Projeto 6 |
+|-----------|-----------|-----------|
+| <a href="https://link-do-projeto4-demo.com"><img src="./screenshots/4.jpg" width="300" alt="Projeto 4 Preview" /></a> | <a href="https://link-do-projeto5-demo.com"><img src="./screenshots/5.jpg" width="300" alt="Projeto 5 Preview" /></a> | <a href="https://link-do-projeto6-demo.com"><img src="./screenshots/6.jpg" width="300" alt="Projeto 6 Preview" /></a> |
+| **Projeto 4** 🌐 · 💻 | **Projeto 5** 🌐 · 💻 | **Projeto 6** 🌐 · 💻 |
+| Breve descrição do projeto 4 | Breve descrição do projeto 5 | Breve descrição do projeto 6 |
 
 ---
 
