@@ -16,11 +16,11 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 
 | [![Death Stranding](./screenshots/1.jpg)](https://link-do-projeto1-demo.com) | [![Stranger Things](./screenshots/2.jpg)](https://link-do-projeto2-demo.com) | [![Vídeo Page](./screenshots/3.jpg)](https://link-do-projeto3-demo.com) |
 |----------------------------------------|----------------------------------------|----------------------------------------|
-| **Death Stranding**   [🌐](https://link-do-projeto1-demo.com) [💻](https://github.com/seuuser/projeto1) <br> Página temática do jogo Death Stranding | **Stranger Things**   [🌐](https://link-do-projeto2-demo.com) [💻](https://github.com/seuuser/projeto2) <br> Página inspirada na série Stranger Things | **Vídeo Page**   [🌐](https://link-do-projeto3-demo.com) [💻](https://github.com/seuuser/projeto3) <br> Página de vídeos em HTML |
+| <div align="center">**Death Stranding**   [🌐](https://link-do-projeto1-demo.com) [💻](https://github.com/seuuser/projeto1) <br> Página temática do jogo Death Stranding</div> | <div align="center">**Stranger Things**   [🌐](https://link-do-projeto2-demo.com) [💻](https://github.com/seuuser/projeto2) <br> Página inspirada na série Stranger Things</div> | <div align="center">**Vídeo Page**   [🌐](https://link-do-projeto3-demo.com) [💻](https://github.com/seuuser/projeto3) <br> Página de vídeos em HTML</div> |
 
 | [![Rider App](./screenshots/4.jpg)](https://link-do-projeto4-demo.com) | [![Todo App](./screenshots/5.jpg)](https://link-do-projeto5-demo.com) | [![One Piece GG](./screenshots/6.jpg)](https://link-do-projeto6-demo.com) |
 |----------------------------------------|----------------------------------------|----------------------------------------|
-| **Rider App**   [🌐](https://link-do-projeto4-demo.com) [💻](https://github.com/seuuser/projeto4) <br> App de gerenciamento de corridas | **Todo App**   [🌐](https://link-do-projeto5-demo.com) [💻](https://github.com/seuuser/projeto5) <br> Lista de tarefas simples com funcionalidades básicas | **One Piece GG**   [🌐](https://link-do-projeto6-demo.com) [💻](https://github.com/seuuser/projeto6) <br> Página temática de anime em HTML |
+| <div align="center">**Rider App**   [🌐](https://link-do-projeto4-demo.com) [💻](https://github.com/seuuser/projeto4) <br> App de gerenciamento de corridas</div> | <div align="center">**Todo App**   [🌐](https://link-do-projeto5-demo.com) [💻](https://github.com/seuuser/projeto5) <br> Lista de tarefas simples com funcionalidades básicas</div> | <div align="center">**One Piece GG**   [🌐](https://link-do-projeto6-demo.com) [💻](https://github.com/seuuser/projeto6) <br> Página temática de anime em HTML</div> |
 
 ---
 
