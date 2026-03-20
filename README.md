@@ -42,7 +42,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anderson-Costa-Santos&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
