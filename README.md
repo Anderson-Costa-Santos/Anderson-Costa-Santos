@@ -1,43 +1,55 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img width="900" alt="Banner personalizado do Anderson" src="./banner.png" />
+</p>
 
-# 👋 Olá, eu sou Anderson Costa Santos
+# 👋 Olá! Eu sou Anderson Costa Santos
 
-Front-end Developer focused on modern, responsive and interactive web applications.
-
----
-
-
-
----
-
-## 🛠️ Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
+### 💻 Sobre mim
+Sou desenvolvedor Front-End com foco em **UI/UX Design**, apaixonado por criar interfaces bonitas, funcionais e intuitivas.
 
 ---
 
-## 🌐 Onde me encontrar
+### 🛠 Tecnologias
+<p align="center">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-CB3837?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-<div>
-  <a href="https://www.youtube.com/channel/UCvv10Wx8yzlY2Bt_5d1m7TQ/featured" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/oydny/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://discord.gg/BaK28cJ2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:oydny2@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/anderson-costa-santos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+---
 
+### 🔥 Meus Projetos
+<p align="center">
+  <a href="https://link-do-projeto1.com">
+    <img alt="Projeto 1" src="./screenshots/projeto1.png" width="300" />
+  </a>
+  <a href="https://link-do-projeto2.com">
+    <img alt="Projeto 2" src="./screenshots/projeto2.png" width="300" />
+  </a>
+  <a href="https://link-do-projeto3.com">
+    <img alt="Projeto 3" src="./screenshots/projeto3.png" width="300" />
+  </a>
+</p>
+
+### 📂 Links dos Projetos
+- [Projeto 1](https://link-do-projeto1.com) – descrição curta  
+- [Projeto 2](https://link-do-projeto2.com) – descrição curta  
+- [Projeto 3](https://link-do-projeto3.com) – descrição curta  
+
+---
+
+### 📫 Onde me encontrar
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/seu-behance" target="_blank">
+    <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/seu-dribbble" target="_blank">
+    <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+</p>
