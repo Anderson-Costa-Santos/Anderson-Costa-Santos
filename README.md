@@ -1,16 +1,54 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img width="900" alt="Banner personalizado do Anderson" src="./banner.png" />
+  <img width="900" alt="Banner do Anderson – Front-End + UI/UX" src="./banner.png" />
 </p>
 
 # 👋 Olá! Eu sou Anderson Costa Santos
 
 ### 💻 Sobre mim
-Sou desenvolvedor Front-End com foco em **UI/UX Design**, apaixonado por criar interfaces bonitas, funcionais e intuitivas.
+Sou desenvolvedor **Front-End + UI/UX Designer**, criando interfaces modernas, intuitivas e funcionais.  
+Apaixonado por transformar ideias em experiências digitais incríveis.
 
 ---
 
-### 🛠 Tecnologias
+## 🚀 Meus Projetos
+
+<!-- Projeto 1 -->
+<p align="center">
+  <a href="https://link-do-projeto1-demo.com">
+    <img width="600" alt="Projeto 1 Preview" src="./screenshots/projeto1.png" />
+  </a>
+</p>
+### 🔗 Projeto 1 — Nome do Projeto
+> Breve descrição do que o projeto faz  
+🌐 Demo: [link-do-projeto1-demo.com](https://link-do-projeto1-demo.com)  
+📦 Código: [GitHub](https://github.com/seuusuario/projeto1)
+
+<!-- Projeto 2 -->
+<p align="center">
+  <a href="https://link-do-projeto2-demo.com">
+    <img width="600" alt="Projeto 2 Preview" src="./screenshots/projeto2.png" />
+  </a>
+</p>
+### 🔗 Projeto 2 — Nome do Projeto
+> Breve descrição do que o projeto faz  
+🌐 Demo: [link-do-projeto2-demo.com](https://link-do-projeto2-demo.com)  
+📦 Código: [GitHub](https://github.com/seuusuario/projeto2)
+
+<!-- Projeto 3 -->
+<p align="center">
+  <a href="https://link-do-projeto3-demo.com">
+    <img width="600" alt="Projeto 3 Preview" src="./screenshots/projeto3.png" />
+  </a>
+</p>
+### 🔗 Projeto 3 — Nome do Projeto
+> Breve descrição do que o projeto faz  
+🌐 Demo: [link-do-projeto3-demo.com](https://link-do-projeto3-demo.com)  
+📦 Código: [GitHub](https://github.com/seuusuario/projeto3)
+
+---
+
+## 🛠 Tecnologias
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,35 +59,15 @@ Sou desenvolvedor Front-End com foco em **UI/UX Design**, apaixonado por criar i
 
 ---
 
-### 🔥 Meus Projetos
+## 📫 Onde me encontrar
 <p align="center">
-  <a href="https://link-do-projeto1.com">
-    <img alt="Projeto 1" src="./screenshots/projeto1.png" width="300" />
-  </a>
-  <a href="https://link-do-projeto2.com">
-    <img alt="Projeto 2" src="./screenshots/projeto2.png" width="300" />
-  </a>
-  <a href="https://link-do-projeto3.com">
-    <img alt="Projeto 3" src="./screenshots/projeto3.png" width="300" />
-  </a>
-</p>
-
-### 📂 Links dos Projetos
-- [Projeto 1](https://link-do-projeto1.com) – descrição curta  
-- [Projeto 2](https://link-do-projeto2.com) – descrição curta  
-- [Projeto 3](https://link-do-projeto3.com) – descrição curta  
-
----
-
-### 📫 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/seu-linkedin">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/seu-behance" target="_blank">
+  <a href="https://www.behance.net/seu-behance">
     <img alt="Behance" src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://dribbble.com/seu-dribbble" target="_blank">
+  <a href="https://dribbble.com/seu-dribbble">
     <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
 </p>
