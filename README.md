@@ -14,7 +14,15 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-|-----------|-----------|-----------| |-----------|-----------|-----------| | <a href="https://link-do-projeto1-demo.com"><img src="./screenshots/1.jpg" width="300" alt="Projeto 1 Preview" /></a> | <a href="https://link-do-projeto2-demo.com"><img src="./screenshots/2.jpg" width="300" alt="Projeto 2 Preview" /></a> | <a href="https://link-do-projeto3-demo.com"><img src="./screenshots/3.jpg" width="300" alt="Projeto 3 Preview" /></a> | | **Death Stranding** 🌐 · 💻 | **Stranger Things** 🌐 · 💻 | **Vídeo Page** 🌐 · 💻 | | Página temática do jogo Death Stranding | Página inspirada na série Stranger Things | Página de vídeos em HTML | |-----------|-----------|-----------| |-----------|-----------|-----------| | <a href="https://link-do-projeto4-demo.com"><img src="./screenshots/4.jpg" width="300" alt="Projeto 4 Preview" /></a> | <a href="https://link-do-projeto5-demo.com"><img src="./screenshots/5.jpg" width="300" alt="Projeto 5 Preview" /></a> | <a href="https://link-do-projeto6-demo.com"><img src="./screenshots/6.jpg" width="300" alt="Projeto 6 Preview" /></a> | | **Rider App** 🌐 · 💻 | **Todo App** 🌐 · 💻 | **One Piece GG** 🌐 · 💻 | | App de gerenciamento de corridas | Lista de tarefas simples com funcionalidades básicas | Página temática de anime em HTML |
+| ![Projeto 1 Preview](./screenshots/1.jpg) | ![Projeto 2 Preview](./screenshots/2.jpg) | ![Projeto 3 Preview](./screenshots/3.jpg) |
+|------------------------------------------|------------------------------------------|------------------------------------------|
+| [**Death Stranding** 🌐 · 💻](https://link-do-projeto1-demo.com) | [**Stranger Things** 🌐 · 💻](https://link-do-projeto2-demo.com) | [**Vídeo Page** 🌐 · 💻](https://link-do-projeto3-demo.com) |
+| Página temática do jogo Death Stranding | Página inspirada na série Stranger Things | Página de vídeos em HTML |
+
+| ![Projeto 4 Preview](./screenshots/4.jpg) | ![Projeto 5 Preview](./screenshots/5.jpg) | ![Projeto 6 Preview](./screenshots/6.jpg) |
+|------------------------------------------|------------------------------------------|------------------------------------------|
+| [**Rider App** 🌐 · 💻](https://link-do-projeto4-demo.com) | [**Todo App** 🌐 · 💻](https://link-do-projeto5-demo.com) | [**One Piece GG** 🌐 · 💻](https://link-do-projeto6-demo.com) |
+| App de gerenciamento de corridas | Lista de tarefas simples com funcionalidades básicas | Página temática de anime em HTML |
 
 ---
 
