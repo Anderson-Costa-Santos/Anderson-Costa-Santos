@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img width="900" alt="Banner do Anderson – Front-End + UI/UX" src="./banner.png" />
+  <img width="900" alt="Banner do Anderson – Front-End + UI/UX" src="./banner.jpg" />
 </p>
 
 ### 💻 About Me
