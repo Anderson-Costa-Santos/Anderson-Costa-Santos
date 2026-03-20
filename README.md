@@ -14,8 +14,54 @@ Apaixonado por transformar ideias em experiências digitais incríveis.
 ### 🌐 Últimos Projetos
 Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Code):
 
-| <a href="https://link-do-projeto1-demo.com"><img src="./screenshots/1.jpg" width="300" /><br>Death Stranding 🌐 · 💻<br><i>Página temática do jogo Death Stranding</i></a> | <a href="https://link-do-projeto2-demo.com"><img src="./screenshots/2.jpg" width="300" /><br>Stranger Things 🌐 · 💻<br><i>Página inspirada na série Stranger Things</i></a> | <a href="https://link-do-projeto3-demo.com"><img src="./screenshots/3.jpg" width="300" /><br>Vídeo Page 🌐 · 💻<br><i>Página de vídeos em HTML</i></a> |
-| <a href="https://link-do-projeto4-demo.com"><img src="./screenshots/4.jpg" width="300" /><br>Rider App 🌐 · 💻<br><i>App de gerenciamento de corridas em JavaScript</i></a> | <a href="https://link-do-projeto5-demo.com"><img src="./screenshots/5.jpg" width="300" /><br>Todo App 🌐 · 💻<br><i>Lista de tarefas simples com funcionalidades básicas</i></a> | <a href="https://link-do-projeto6-demo.com"><img src="./screenshots/6.jpg" width="300" /><br>One Piece GG 🌐 · 💻<br><i>Página temática de anime em HTML</i></a> |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://link-do-projeto1-demo.com">
+        <img src="./screenshots/1.jpg" width="300" /><br>
+        <b>Death Stranding</b> 🌐 · 💻<br>
+        <i>Página temática do jogo Death Stranding</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-do-projeto2-demo.com">
+        <img src="./screenshots/2.jpg" width="300" /><br>
+        <b>Stranger Things</b> 🌐 · 💻<br>
+        <i>Página inspirada na série Stranger Things</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-do-projeto3-demo.com">
+        <img src="./screenshots/3.jpg" width="300" /><br>
+        <b>Vídeo Page</b> 🌐 · 💻<br>
+        <i>Página de vídeos em HTML</i>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://link-do-projeto4-demo.com">
+        <img src="./screenshots/4.jpg" width="300" /><br>
+        <b>Rider App</b> 🌐 · 💻<br>
+        <i>App de gerenciamento de corridas</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-do-projeto5-demo.com">
+        <img src="./screenshots/5.jpg" width="300" /><br>
+        <b>Todo App</b> 🌐 · 💻<br>
+        <i>Lista de tarefas simples</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-do-projeto6-demo.com">
+        <img src="./screenshots/6.jpg" width="300" /><br>
+        <b>One Piece GG</b> 🌐 · 💻<br>
+        <i>Página temática de anime</i>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
