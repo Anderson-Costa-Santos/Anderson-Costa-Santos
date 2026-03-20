@@ -17,7 +17,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 1 -->
 <p align="center">
   <a href="https://link-do-projeto1-demo.com">
-    <img width="400" alt="Projeto 1 Preview" src="https://via.placeholder.com/400x250.png?text=1" />
+    <img width="400" alt="Projeto 1 Preview" src="./screenshots/1.jpg" />
   </a>
 </p>
 **Projeto 1** – Breve descrição do projeto  
@@ -26,7 +26,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 2 -->
 <p align="center">
   <a href="https://link-do-projeto2-demo.com">
-    <img width="400" alt="Projeto 2 Preview" src="https://via.placeholder.com/400x250.png?text=2" />
+    <img width="400" alt="Projeto 2 Preview" src="./screenshots/2.jpg" />
   </a>
 </p>
 **Projeto 2** – Breve descrição do projeto  
@@ -35,7 +35,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 3 -->
 <p align="center">
   <a href="https://link-do-projeto3-demo.com">
-    <img width="400" alt="Projeto 3 Preview" src="https://via.placeholder.com/400x250.png?text=3" />
+    <img width="400" alt="Projeto 3 Preview" src="./screenshots/3.jpg" />
   </a>
 </p>
 **Projeto 3** – Breve descrição do projeto  
@@ -44,7 +44,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 4 -->
 <p align="center">
   <a href="https://link-do-projeto4-demo.com">
-    <img width="400" alt="Projeto 4 Preview" src="https://via.placeholder.com/400x250.png?text=4" />
+    <img width="400" alt="Projeto 4 Preview" src="./screenshots/4.jpg" />
   </a>
 </p>
 **Projeto 4** – Breve descrição do projeto  
@@ -53,7 +53,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 5 -->
 <p align="center">
   <a href="https://link-do-projeto5-demo.com">
-    <img width="400" alt="Projeto 5 Preview" src="https://via.placeholder.com/400x250.png?text=5" />
+    <img width="400" alt="Projeto 5 Preview" src="./screenshots/5.jpg" />
   </a>
 </p>
 **Projeto 5** – Breve descrição do projeto  
@@ -62,7 +62,7 @@ Aqui estão alguns dos meus projetos recentes (🌐 Live Demo · 💻 Source Cod
 <!-- Projeto 6 -->
 <p align="center">
   <a href="https://link-do-projeto6-demo.com">
-    <img width="400" alt="Projeto 6 Preview" src="https://via.placeholder.com/400x250.png?text=6" />
+    <img width="400" alt="Projeto 6 Preview" src="./screenshots/6.jpg" />
   </a>
 </p>
 **Projeto 6** – Breve descrição do projeto  
