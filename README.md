@@ -3,8 +3,6 @@
   <img width="900" alt="Banner do Anderson – Front-End + UI/UX" src="./banner.png" />
 </p>
 
-# 👋 Olá! Eu sou Anderson Costa Santos
-
 ### 💻 Sobre mim
 Sou desenvolvedor **Front-End + UI/UX Designer**, criando interfaces modernas, intuitivas e funcionais.  
 Apaixonado por transformar ideias em experiências digitais incríveis.
